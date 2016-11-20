@@ -1,0 +1,17 @@
+{
+  "name": "editable-table",
+  "homepage": "https://github.com/mrtinkz/editable-table",
+  "authors": [
+    "Vikram Palakurthi <vpalakurthi@ohl.com>"
+  ],
+  "description": "",
+  "main": "mindmup-editabletable.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
